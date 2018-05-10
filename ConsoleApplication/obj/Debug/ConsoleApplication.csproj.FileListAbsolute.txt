@@ -1,0 +1,5 @@
+c:\users\nagarjuna.optionmatrix\documents\visual studio 2015\Projects\Helloworld\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+c:\users\nagarjuna.optionmatrix\documents\visual studio 2015\Projects\Helloworld\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+c:\users\nagarjuna.optionmatrix\documents\visual studio 2015\Projects\Helloworld\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+c:\users\nagarjuna.optionmatrix\documents\visual studio 2015\Projects\Helloworld\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+c:\users\nagarjuna.optionmatrix\documents\visual studio 2015\Projects\Helloworld\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
